@@ -1,0 +1,27 @@
+body {
+    padding: 30px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.titulo {
+  width: 100%;
+  height: 50px;
+}
+
+h4 {
+  align-items: safe center;
+  padding-top: 10px;
+  
+}
+
+.form {
+  width: 900px;
+  height: auto;
+  border: 2px solid rgb(214, 209, 209);
+  border-radius: 10px;
+  padding: 20px;
+}
